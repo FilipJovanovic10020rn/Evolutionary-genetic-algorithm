@@ -1,7 +1,3 @@
-Projekat je u C programskom jeziku 
-Program se pokrece bez pocetnih parametra 
-Sve se dalje poziva iz menija koji se pojavi kada se pokrene program
-
 ## Instruction
 
 Aplication written in C, used for simulating neural network and its evolution using different mutation methods and algorithms. After each generation calculate their quality and proceed to the next generation.
